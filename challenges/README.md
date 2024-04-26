@@ -1,0 +1,1 @@
+These problems are from Launch School's [Ruby Challenges](https://launchschool.com/exercises) exercises.

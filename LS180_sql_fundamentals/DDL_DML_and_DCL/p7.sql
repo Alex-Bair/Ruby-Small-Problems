@@ -1,1 +1,0 @@
--- The following statement does not use the DDL, DML, or DCL component of SQL. It is a psql meta-command.

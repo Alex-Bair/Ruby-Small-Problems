@@ -1,5 +1,0 @@
-ALTER TABLE planets
-ADD CHECK (mass > 0),
-ALTER COLUMN mass SET NOT NULL,
-ALTER COLUMN mass TYPE numeric,
-ALTER COLUMN designation SET NOT NULL;
